@@ -1,1 +1,5 @@
 course1 : VTU C programming and DS Lab
+
+course2 : VTU CG Lab
+
+course11 : 
